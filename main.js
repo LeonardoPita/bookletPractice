@@ -1,3 +1,31 @@
+//==============================   Pracicas variadas ==================================================//
+
+/*Programa en el cual se ingresa un valor límite positivo, y a continuación solicita números 
+al usuario hasta que la suma de los números introducidos supere el límite inicial establecido.*/
+
+// let limite = prompt("Ingrese numero limite.");
+// let suma = 0;
+// let limiteParsed = parseInt(limite);
+// let sumaParsed = parseInt(suma);
+
+
+// if (limite === "") {
+//     prompt('No recibimos un numero.');
+// } else {
+//     do {
+//         let numero = prompt("Indique numero a sumar.");
+//         let numeroParsed = parseInt(numero);
+//         suma = suma + numeroParsed;
+//         alert(
+//             "Van " + suma + " en la suma sobre el limite establecido de " + limite + "."
+//         );
+//     } while (suma <= limiteParsed);
+// }
+//     alert(
+//         "Suman " + suma + " y se sobrepasó el límite establecido de " + limite + "."
+//     );
+
+
 
 //==============================   JAVASCRIPT 1 ==================================================//
 // --------------------------- JAVASCRIPT 1 EJ 3 -------------------------------------------------//
